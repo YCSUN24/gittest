@@ -11,6 +11,7 @@ public class Hello {
 
 		System.out.println("Hello Master !!");
 		System.out.println("Hello Bear Branch");
+		System.out.println("Hello gittest2");
 
 
 	}
