@@ -8,6 +8,7 @@ public class Hello {
 		
 		
 		System.out.println("Hello Cat Branch");
+		System.out.println("Hello Master !!");
 
 	}
 }
